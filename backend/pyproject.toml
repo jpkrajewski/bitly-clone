@@ -1,5 +1,5 @@
 [project]
-name = "URLShortener"
+name = "urlshortner"
 version = "0.1.0"
 description = "URL Shortener"
 readme = "README.md"
